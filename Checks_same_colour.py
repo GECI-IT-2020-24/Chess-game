@@ -1,3 +1,4 @@
+#program_that_checks_if_the_given_two_cells_are_same_colour
 a=int(input())
 b=int(input())
 c=int(input())
